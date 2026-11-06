@@ -1,0 +1,6 @@
+{
+  "name": "PilihMapel SMA",
+  "description": "Aplikasi panduan dan pemilihan mata pelajaran pilihan Fase F untuk siswa Kelas X SMA/MA sesuai Panduan Kemendikbudristek Edisi Revisi 2024, mencakup asesmen RIASEC, katalog 59 prodi PTN, simulasi paket JP, dan formulir resmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
